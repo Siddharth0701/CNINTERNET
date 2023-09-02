@@ -30,5 +30,40 @@ Modified
 Staged
 UnModified
 
+
+
+--------------------------------------------------------------------------------------------------------
+
+
+---------------------------------git command for commit and push-----------------------
+
+git init
+git add .
+git commit -m "initial commit"
+git branch -M master
+git remote add origin https://github.com/Siddharth0701/Testingrepo.git
+git push -u origin master
+--------- git pull----------
+git fetch
+git pull origin master
+---------------------------------------------
+---------git for new branch-----------------------
+git branch branchname
+git checkout newly created branch
+git push -u origin new createdbranch
+------------------------------------
+--------------------------------------------------------shell command
+mkdir- make directory
+ls- list directory
+cd - change directory
+nano- edit file
+clear - clear terminal
+Tab- auto complete
+echo- print ternainal
+man- help on specific command
+touch - create new file
+cat - content of file
+rm - remote the file
+
 	
 	
